@@ -15,6 +15,7 @@
 		14D00BE6229AF1C2004568E2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 14D00BE4229AF1C2004568E2 /* LaunchScreen.storyboard */; };
 		14D00BF1229AF1C2004568E2 /* PassingDataTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14D00BF0229AF1C2004568E2 /* PassingDataTests.swift */; };
 		14D00BFC229AF1C2004568E2 /* PassingDataUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14D00BFB229AF1C2004568E2 /* PassingDataUITests.swift */; };
+		14D00C0A229AF3CB004568E2 /* ViewTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14D00C09229AF3CB004568E2 /* ViewTwo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		14D00BF7229AF1C2004568E2 /* PassingDataUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PassingDataUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		14D00BFB229AF1C2004568E2 /* PassingDataUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PassingDataUITests.swift; sourceTree = "<group>"; };
 		14D00BFD229AF1C2004568E2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		14D00C09229AF3CB004568E2 /* ViewTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewTwo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				14D00BD8229AF1C2004568E2 /* AppDelegate.swift */,
 				14D00BDA229AF1C2004568E2 /* ViewController.swift */,
 				14D00BDC229AF1C2004568E2 /* Main.storyboard */,
+				14D00C09229AF3CB004568E2 /* ViewTwo.swift */,
 				14D00BE2229AF1C2004568E2 /* Assets.xcassets */,
 				14D00BE4229AF1C2004568E2 /* LaunchScreen.storyboard */,
 				14D00BE7229AF1C2004568E2 /* Info.plist */,
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				14D00BDB229AF1C2004568E2 /* ViewController.swift in Sources */,
+				14D00C0A229AF3CB004568E2 /* ViewTwo.swift in Sources */,
 				14D00BD9229AF1C2004568E2 /* AppDelegate.swift in Sources */,
 				14D00BE1229AF1C2004568E2 /* PassingData.xcdatamodeld in Sources */,
 			);
